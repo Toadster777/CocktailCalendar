@@ -1,0 +1,6 @@
+framework module Pods_CocktailCalendar {
+  umbrella header "Pods-CocktailCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}
